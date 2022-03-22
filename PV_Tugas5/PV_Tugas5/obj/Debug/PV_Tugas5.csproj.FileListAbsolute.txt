@@ -1,0 +1,7 @@
+D:\PV C#\PV_Tugas5\PV_Tugas5\obj\Debug\PV_Tugas5.csprojResolveAssemblyReference.cache
+D:\PV C#\PV_Tugas5\PV_Tugas5\obj\Debug\PV_Tugas5.MainForm.resources
+D:\PV C#\PV_Tugas5\PV_Tugas5\obj\Debug\PV_Tugas5.csproj.GenerateResource.Cache
+D:\PV C#\PV_Tugas5\PV_Tugas5\bin\Debug\PV_Tugas5.exe
+D:\PV C#\PV_Tugas5\PV_Tugas5\bin\Debug\PV_Tugas5.pdb
+D:\PV C#\PV_Tugas5\PV_Tugas5\obj\Debug\PV_Tugas5.exe
+D:\PV C#\PV_Tugas5\PV_Tugas5\obj\Debug\PV_Tugas5.pdb
